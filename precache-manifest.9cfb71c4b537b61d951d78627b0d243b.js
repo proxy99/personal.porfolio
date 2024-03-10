@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53aa8821c91b5cade3673b975a9d2636",
+    "revision": "4e511b839cb7d47628e1946403d99206",
     "url": "/index.html"
   },
   {
-    "revision": "ced13823b5197cc7a11b",
-    "url": "/static/css/main.a49edcc2.chunk.css"
+    "revision": "c217b898ac6869cc393a",
+    "url": "/static/css/main.89f0670b.chunk.css"
   },
   {
-    "revision": "741298a2b70b361818ff",
-    "url": "/static/js/2.11010e6d.chunk.js"
+    "revision": "9cdfbdb2707a7bfed4db",
+    "url": "/static/js/2.98f5b9fb.chunk.js"
   },
   {
     "revision": "c21d579849576bf6a47550572ff70f62",
-    "url": "/static/js/2.11010e6d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.98f5b9fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ced13823b5197cc7a11b",
-    "url": "/static/js/main.60dd0334.chunk.js"
+    "revision": "c217b898ac6869cc393a",
+    "url": "/static/js/main.21d8d0d9.chunk.js"
   },
   {
     "revision": "008aefb0927de5ee9862",
@@ -210,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7b7a76ef55658f6999ce00c5d55f85a5",
     "url": "/static/media/skillenza.7b7a76ef.png"
+  },
+  {
+    "revision": "1e8e33a368246e7b16f2d145473e9144",
+    "url": "/static/media/solislab_logo.1e8e33a3.svg"
   },
   {
     "revision": "8901092d61bfd611f75368233b1774c6",

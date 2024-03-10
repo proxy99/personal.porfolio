@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a49edcc2.chunk.css",
-    "main.js": "/static/js/main.60dd0334.chunk.js",
-    "main.js.map": "/static/js/main.60dd0334.chunk.js.map",
+    "main.css": "/static/css/main.89f0670b.chunk.css",
+    "main.js": "/static/js/main.21d8d0d9.chunk.js",
+    "main.js.map": "/static/js/main.21d8d0d9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.de6673d8.js",
     "runtime-main.js.map": "/static/js/runtime-main.de6673d8.js.map",
-    "static/js/2.11010e6d.chunk.js": "/static/js/2.11010e6d.chunk.js",
-    "static/js/2.11010e6d.chunk.js.map": "/static/js/2.11010e6d.chunk.js.map",
+    "static/js/2.98f5b9fb.chunk.js": "/static/js/2.98f5b9fb.chunk.js",
+    "static/js/2.98f5b9fb.chunk.js.map": "/static/js/2.98f5b9fb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.76419c8b4af8198bdf6a2d86d35eabdb.js": "/precache-manifest.76419c8b4af8198bdf6a2d86d35eabdb.js",
+    "precache-manifest.9cfb71c4b537b61d951d78627b0d243b.js": "/precache-manifest.9cfb71c4b537b61d951d78627b0d243b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.a49edcc2.chunk.css.map": "/static/css/main.a49edcc2.chunk.css.map",
-    "static/js/2.11010e6d.chunk.js.LICENSE.txt": "/static/js/2.11010e6d.chunk.js.LICENSE.txt",
+    "static/css/main.89f0670b.chunk.css.map": "/static/css/main.89f0670b.chunk.css.map",
+    "static/js/2.98f5b9fb.chunk.js.LICENSE.txt": "/static/js/2.98f5b9fb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/bauddhikgeeks-transparent.png": "/static/media/bauddhikgeeks-transparent.074c759b.png",
     "static/media/bauddhikgeeks.png": "/static/media/bauddhikgeeks.f2d490dc.png",
@@ -38,6 +38,7 @@
     "static/media/postman.jpg": "/static/media/postman.22f11067.jpg",
     "static/media/postman.png": "/static/media/postman.c108f557.png",
     "static/media/skillenza.png": "/static/media/skillenza.7b7a76ef.png",
+    "static/media/solislab_logo.svg": "/static/media/solislab_logo.1e8e33a3.svg",
     "static/media/ssec.png": "/static/media/ssec.8901092d.png",
     "static/media/ssgandhy.png": "/static/media/ssgandhy.894ef0fc.png",
     "static/media/valora.jpg": "/static/media/valora.246ad3ed.jpg",
@@ -45,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.de6673d8.js",
-    "static/js/2.11010e6d.chunk.js",
-    "static/css/main.a49edcc2.chunk.css",
-    "static/js/main.60dd0334.chunk.js"
+    "static/js/2.98f5b9fb.chunk.js",
+    "static/css/main.89f0670b.chunk.css",
+    "static/js/main.21d8d0d9.chunk.js"
   ]
 }
